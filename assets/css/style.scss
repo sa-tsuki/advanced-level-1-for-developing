@@ -16,21 +16,6 @@ img {
   font-family: "Roboto";
 }
 
-header {
-  width: 100%;
-  position: sticky;
-  left: 0;
-  top: 0;
-  z-index: 100;
-  padding: 32px 80px 0;
-
-  .header {
-    &__container {
-      width: 281px;
-    }
-  }
-}
-
 footer {
   background-color: #3f3f3f;
   padding: 4px;
